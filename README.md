@@ -3,4 +3,5 @@
 # goal
 碩畢前1000題
 # now
-166/2960
+![image](https://github.com/Yi-Chung-Chen/leetcode-/assets/94212671/8c13f56f-e553-4ff8-bcbf-94d17fb5ab83)
+
